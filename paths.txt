@@ -1,0 +1,3 @@
+/etc/network
+/etc/mysql
+/etc/fstab
